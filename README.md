@@ -419,13 +419,19 @@ streamlit run app.py
 
 The main interface allows candidates to enter their career information and access the AI-powered features.
 
+![AI Resume Studio Home Page](screenshots/homepage.png)
+
 ### 📄 Resume & Cover Letter Generation
 
 Generate professional career content using the candidate's information.
 
+![Resume and Cover Letter Generation](screenshots/coverletter_pdf.png)
+
 ### 🎯 ATS Analysis Dashboard
 
 Analyze compatibility with a target job description and receive improvement suggestions.
+
+![ATS Compatibility Score](screenshots/ats_score.png)
 
 ---
 
