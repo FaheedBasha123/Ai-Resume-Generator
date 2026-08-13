@@ -1,12 +1,12 @@
 # 🤖 AI Resume Studio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:2563EB,100:7C3AED&height=220&section=header&text=AI%20Resume%20Studio&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Career%20Assistant&descAlignY=58&descSize=22" width="100%" alt="AI Resume Studio Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:00BFFF,100:8A2BE2&height=220&section=header&text=AI%20Resume%20Studio&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Career%20Assistant&descAlignY=58&descSize=22" width="100%" alt="AI Resume Studio Rainbow Header"/>
 </p>
 
 <p align="center">
   <a href="https://ai-resume-generator-project.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-2563EB?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-8A2BE2?style=for-the-badge" alt="Live Demo"/>
   </a>
   <a href="https://github.com/dhanush080607/Ai-Resume-Generator">
     <img src="https://img.shields.io/badge/💻_SOURCE-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Build+Better+Resumes.;Generate+Personalized+Cover+Letters.;Analyze+ATS+Compatibility.;Improve+Your+Career+Profile." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Build+Better+Resumes.;Generate+Personalized+Cover+Letters.;Analyze+ATS+Compatibility.;Improve+Your+Career+Profile." alt="Typing Animation"/>
 </p>
 
 <p align="center">
@@ -215,7 +215,7 @@ Resume / Career Content
     PDF Document
 ```
 
-and
+and:
 
 ```text
 Cover Letter
@@ -240,7 +240,7 @@ The application uses a futuristic interface designed to make the career preparat
 ```text
 🌑 Futuristic Dark Theme
        +
-✨ Animated Gradient Background
+🌈 Rainbow Gradient Effects
        +
 🪟 Glassmorphism
        +
@@ -255,8 +255,8 @@ The application uses a futuristic interface designed to make the career preparat
 
 ### Visual Principles
 
-* Deep dark surfaces
-* Gradient backgrounds
+* Dark surfaces
+* Rainbow gradient effects
 * Glassmorphism cards
 * Modern typography
 * Responsive layout
@@ -278,7 +278,7 @@ The application uses a futuristic interface designed to make the career preparat
 | 🤖 Google Gemini AI    | AI content generation & ATS analysis |
 | 📄 ReportLab           | PDF generation                       |
 | 🔎 Regular Expressions | ATS score extraction                 |
-| 🎨 HTML & CSS          | Custom UI/UX                         |
+| 🎨 HTML & CSS          | Custom UI                            |
 
 ---
 
@@ -384,8 +384,6 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 ```bash
 streamlit run app.py
 ```
-
-The application will be available locally through Streamlit.
 
 ---
 
@@ -621,5 +619,5 @@ This project was developed for **educational, internship, and portfolio purposes
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:050505&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:00BFFF,40:00FF00,60:FFFF00,80:FF7F00,100:FF0000&height=120&section=footer&animation=fadeIn" width="100%" alt="Rainbow Footer"/>
 </p>
