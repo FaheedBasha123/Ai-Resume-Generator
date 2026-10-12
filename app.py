@@ -236,7 +236,7 @@ with st.sidebar:
 # Hero Header Unit
 st.markdown("""
 <div class="hero-wrapper">
-    <div class="hero-glow-title">⚡ AI RESUME STUDIO</div>
+    <div class="hero-glow-title">👌👌👌 AI RESUME STUDIO</div>
     <div class="hero-subtag">Autonomous ATS Optimization & Career Asset Generation</div>
 </div>
 """, unsafe_allow_html=True)
