@@ -12,7 +12,7 @@ client = genai.Client(api_key=API_KEY)
 # Page Config
 st.set_page_config(
     page_title="AI Resume Studio // HUD",
-    page_icon="👍👍👍",
+    page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -236,7 +236,7 @@ with st.sidebar:
 # Hero Header Unit
 st.markdown("""
 <div class="hero-wrapper">
-    <div class="hero-glow-title">👌👌👌 AI RESUME STUDIO</div>
+    <div class="hero-glow-title">⚡AI RESUME STUDIO</div>
     <div class="hero-subtag">Autonomous ATS Optimization & Career Asset Generation</div>
 </div>
 """, unsafe_allow_html=True)
