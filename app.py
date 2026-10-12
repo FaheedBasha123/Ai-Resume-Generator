@@ -12,7 +12,7 @@ client = genai.Client(api_key=API_KEY)
 # Page Config
 st.set_page_config(
     page_title="AI Resume Studio // HUD",
-    page_icon="⚡",
+    page_icon="👍👍👍",
     layout="wide",
     initial_sidebar_state="expanded"
 )
